@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Karjaisija.cs" Line="21" Column="31" />
+      <File FileName="Assets/Scripts/Arrow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FlameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ArrowShooter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameControl.cs" Line="60" Column="23" />
+      <File FileName="Assets/Scripts/WeakPointDeath.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OrcMover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WingsMover.cs" Line="45" Column="1" />
+      <File FileName="Assets/Scripts/Paamover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ParticleSystemExtension.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Smaugmover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OrcBurner.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
